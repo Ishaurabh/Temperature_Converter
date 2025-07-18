@@ -46,6 +46,8 @@ Run the application:
 java TemperatureConverter
 
 📷 Screenshots
+
+
 <img width="472" height="354" alt="Screenshot 2025-07-18 200753" src="https://github.com/user-attachments/assets/6926d3d1-a2ae-440a-a282-1374df68cb03" />
 <img width="474" height="360" alt="Screenshot 2025-07-18 200808" src="https://github.com/user-attachments/assets/f66118f0-eb22-4d79-9dea-41e9c6f7e3c3" />
 
